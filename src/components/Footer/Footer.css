@@ -1,0 +1,10 @@
+.footer {
+  flex: 0.5;
+  background-color: black;
+  border-radius: 10px;
+}
+
+.footer a {
+  padding: 10px;
+  margin: 10px;
+}

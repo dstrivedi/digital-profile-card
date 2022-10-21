@@ -1,0 +1,15 @@
+html {
+  text-align: center;
+  /* overflow: hidden; */
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border-radius: 10px;
+  margin: auto;
+  width: 45vh;
+  background-color: #282d35;
+  color: white;
+}

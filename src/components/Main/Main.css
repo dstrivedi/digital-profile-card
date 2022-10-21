@@ -1,0 +1,34 @@
+.main {
+  flex: 5;
+}
+
+.about {
+  text-align: left;
+  padding: 0px 15px 0px 15px;
+}
+
+.about h3 {
+  line-height: 1px;
+}
+
+.interests {
+  text-align: left;
+  padding: 0px 15px 0px 15px;
+}
+
+.interests h3 {
+  line-height: 1px;
+}
+
+.intro {
+  line-height: 2px;
+}
+
+.job {
+  color: orange;
+}
+
+.website {
+  color: white;
+  text-decoration: none;
+}
