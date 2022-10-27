@@ -10,7 +10,12 @@ const Intro = () => {
       <h4>Drashti Trivedi</h4>
       <p className="job">Front End Developer</p>
       <p>
-        <a className="website" href="">
+        <a
+          className="website"
+          href="drashtitrivedi.com"
+          target="_blank"
+          rel="noreferrer"
+        >
           drashti.trivedi
         </a>
       </p>
@@ -21,7 +26,7 @@ const Intro = () => {
         size="sm"
       >
         <FontAwesomeIcon icon={faGoogle} />
-        Email
+        {/* Email */}
       </Button>
     </div>
   );
